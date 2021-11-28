@@ -35,5 +35,6 @@ Proje Java Programlama Dili ile geliştirildi.
 Apache Netbeans IDE ve MySQL kullanılarak tasarlandı.
 
 
+![image](https://user-images.githubusercontent.com/62994620/143731429-6c91628f-7933-4c0c-93d5-8ee38fe370e9.png)
 
 
